@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image {
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/bfc0fc46-24f6-4d70-85b3-7799315c01dd/web/IN-en-20240923-TRIFECTA-perspective_74e21c19-980e-45ef-bd6c-78c1a6ce9381_large.jpg');
+    background-size: cover;
+    background-color: rgb(43, 58, 67);
+    background-blend-mode: overlay;
+    color: #fff;
+}
+.image h1{
+    font-size: 70px;
+    font-weight: 800;
+}
+.image h4{
+    font-size: 30px;   
+}
+.image span{
+    font-size: 20px;
+}
+.image button{
+    background-color: rgb(229, 9, 20) !important ;
+    color:#fff;
+    font-weight: 700;   
+}
+section{
+    background-color: black;
+}
+.movies h2{
+    color: #fff;
+    font-weight: 700;
+}
+.movies hr{
+    color: #fff;
+}
+.movies .photo img{
+    border-radius: 15px;
+}
+/* pack section start */
+.pack h2{
+    font-size: 70px;
+    color: #fff;
+    font-weight: 600;
+    padding-top: 150px;
+}
+.pack{
+    background-image: url('https://htmldemo.net/streamo/streamo/assets/images/slider/slider-hm4-3.png');
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(78, 56, 68);
+    background-blend-mode: overlay;
+}
+.pack .span-1{
+    color: rgb(229, 9, 20) !important;
+    font-size: 30px;
+    font-weight: 700;
+}
+.pack .span-2{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+.pack button{
+    background-color: rgb(229, 9, 20) !important ;
+    color:#fff;
+    font-weight: 700;   
+}
+/* web series section */
+.image-2 img{
+    width: 1240px;
+}

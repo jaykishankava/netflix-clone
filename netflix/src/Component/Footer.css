@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-color: #12212c !important;
+    padding: 30px;
+}
+.image-conten p{
+    margin-top: 30px;
+    font-size: 14px;
+    color: #fff;
+}
+.image-conten i{
+    font-size: 20px;
+    color: #fff;
+    margin-right: 15px;
+}
+.image-conten h2{
+    margin-top: 24px;
+    padding-left: 20px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #fff;
+}
+.image-conten h3{
+    font-size: 14px;
+    color: #fff;
+    padding-left: 20px;
+    margin-bottom: 12px;
+}
+.image-conten h4{
+    margin-top: 24px;
+    padding-left: 20px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #fff;
+}
+.Company h3{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.Company h2{
+    font-size: 14px;
+    line-height: 26px;
+    color: #fff;
+    margin-bottom: 12px;
+
+}
+.Subscribe{
+    position: relative;
+}
+.Subscribe .arrow{
+    position: absolute;
+    content: '';
+    top:57px;
+    right: 20px;
+}
+.Subscribe .icon p{
+    border-radius: 5px;
+    border:1px solid #fff;
+    padding:5px  10px;
+    color: #fff;
+}
+.Subscribe  img{
+    width: 100px!important;
+    height: 50%;
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.Subscribe h3{
+    margin-bottom: 20px;
+}
+
